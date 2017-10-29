@@ -17,7 +17,7 @@ function LivIconsEvoDefaults () {
 	var default_options = {
 		
 		/*'/EDIT THIS OPTION!/', //the path from root of your site to folder with icons. Also may be as URL, like 'http://yoursite.com/path/to/LivIconsEvo/svg/'*/
-		pathToFolder: 'https://github.com/makingmovesbostonmovers/WebsiteRepo/upload/master/svg',
+		pathToFolder: 'https://cdn.rawgit.com/makingmovesbostonmovers/WebsiteRepo/tree/master/svg',
 		name: 'bell.svg', //the default icon name
 		//visualization options
 
