@@ -17,7 +17,7 @@ function LivIconsEvoDefaults () {
 	var default_options = {
 		
 		/*'/EDIT THIS OPTION!/', //the path from root of your site to folder with icons. Also may be as URL, like 'http://yoursite.com/path/to/LivIconsEvo/svg/'*/
-		pathToFolder: 'https://static1.squarespace.com/static/59ef97d7f14aa1a8a0722e7e/t/59f53820f9619ab1fcad7854/1509242912979/',
+		pathToFolder: 'http://nour-shahin-l8d4.squarespace.com/assets/',
 		name: 'bell.svg', //the default icon name
 		//visualization options
 
